@@ -1,0 +1,27 @@
+// class_vihicle.cpp: implementation of the cls_vihicle class.
+//
+//////////////////////////////////////////////////////////////////////
+
+#include "class_vihicle.h"
+
+//////////////////////////////////////////////////////////////////////
+// Construction/Destruction
+//////////////////////////////////////////////////////////////////////
+
+//##ModelId=4B02B4E401A8
+cls_vihicle::cls_vihicle()
+{
+
+}
+
+//##ModelId=4B02B4E401A9
+cls_vihicle::~cls_vihicle()
+{
+
+}
+
+//##ModelId=4B02B4E401A7
+int cls_vihicle::TurnAround()
+{
+	return 0;
+}
