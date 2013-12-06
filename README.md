@@ -14,3 +14,6 @@ Just a simple 2d tiled game!
 
 # Game Download #
 http://pan.baidu.com/share/link?shareid=175418&uk=1543817867
+
+# Others #
+地图部分采用我的simpleTileMapEditor1.0制作
